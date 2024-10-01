@@ -115,4 +115,5 @@ public class main {
         System.out.println(partner5.getName() + ": " + partner5.getID()); partner5.bono();
 
     }
+
 }
